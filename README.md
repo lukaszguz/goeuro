@@ -1,0 +1,2 @@
+# goeuro
+mvn clean install
